@@ -1,0 +1,16 @@
+.titleContainer {
+    display : flex;
+    justify-content : center;
+    margin-bottom : 3rem;
+}
+
+.title {
+    display : inline-block;
+}
+
+.underline {
+    height : 0.2rem;
+    width : 40%;
+    background-color : var(--red);
+    margin : 0 auto;
+}

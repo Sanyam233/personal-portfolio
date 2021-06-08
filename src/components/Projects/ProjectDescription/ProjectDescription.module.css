@@ -1,0 +1,57 @@
+.projectDescription {
+    margin : auto;
+}
+
+.headerContainer {
+    display : flex;
+    justify-content : space-between;
+}
+
+
+.linksContainer {
+    display : flex;
+    font-size : clamp(1.25rem, 3vw, 1.5rem);
+}
+
+.icon {
+    color : inherit;
+    margin-left : 1em;
+    cursor : pointer;
+}
+
+.icon:hover {
+    color : var(--red);
+}
+
+.techContainer {
+    width: 100%;
+    margin-top: 1.25em;
+    text-align: start;
+}
+
+.techContainer span {
+    margin-right: 1.25em;
+}
+
+.technology {
+    display : inline-block;
+    background-color : var(--secondary);
+    padding : 0.4em 0.5em 0.1em 0.5em;
+    letter-spacing: var(--spacing);
+    border-radius: 3px;
+    color : var(--red);
+    font-weight : bold;
+    font-size : clamp(0.8125rem ,2vw, 1rem);
+}
+
+@media only screen and (min-width: 1040px){
+    
+    .linksContainer{
+        width : 10%;
+    }
+
+    .icon{
+        margin-left : 1em;
+    }
+    
+}

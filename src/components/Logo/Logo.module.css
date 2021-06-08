@@ -1,0 +1,43 @@
+.logo{
+    width : 40px;
+    height : 40px;
+    border-radius : 50%;
+    background-color: var(--red);
+    color : var(--secondary);
+    transform : rotate(-50deg);
+    text-align : center;
+    cursor : pointer;
+}   
+
+.logo h1{
+    font-size : 44px;
+}
+
+
+@media screen and (min-width : 768px) {
+
+    .logo{
+        width : 45px;
+        height : 45px;
+    }   
+    
+    .logo h1{
+        font-size : 48px;
+    }
+
+}
+
+
+@media screen and (min-width : 1040px) {
+
+    .logo{
+        width : 55px;
+        height : 55px;
+    }   
+    
+    .logo h1{
+        font-size : 62px;
+    }
+    
+
+}

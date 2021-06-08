@@ -1,0 +1,32 @@
+.Hamburger{
+    border : 2px var(--red) solid;
+    font-size : clamp(1.125rem, 2vw, 1.25rem);
+    position : relative;
+    z-index: 6;
+    display : grid;
+    place-items: center;
+    outline : 0;
+    color : var(--red);
+    background-color : var(--white);
+    height : 35px;
+    width : 35px;
+
+}
+
+.Hamburger:hover{
+    background-color : var(--red);
+    cursor: pointer;
+    color : var(--secondary);
+}
+
+
+
+
+@media only screen and (min-width: 768px){
+
+    .Hamburger{
+        display : none;
+    }
+
+    
+}

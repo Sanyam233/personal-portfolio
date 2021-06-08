@@ -1,0 +1,34 @@
+.MobileLayoutContainer{
+    width: 100%;
+    margin-bottom: 4em;
+}
+
+.MobileLayout{
+    padding-top : 42%;
+    position: relative;
+    margin-bottom: 3em;
+}
+
+
+.FrameOne{
+    width : 25%;
+    padding-top : 42%;
+    bottom : 0px;
+    position: absolute;
+    box-shadow : 2px 3px 5px #ccc;
+    background-size: 98% 98%;
+}
+
+
+
+.FrameTwo{
+    bottom : -10px;
+    width : 100%;
+    height : 100%;
+    right : -98%;
+    position: absolute;
+    box-shadow : 2px 3px 5px #ccc;
+    background-size: 100% 100%;
+
+}
+

@@ -1,0 +1,21 @@
+.sideDrawer{
+    position: fixed;
+    z-index: 5;
+    top : 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--secondary);
+}
+
+.navigationLinkContainer{
+    margin-top : 3.125em;
+    text-align : center;
+}
+
+@media only screen and (min-width: 1060px){
+
+    .sideDrawer{
+        display : none;
+    }
+
+}

@@ -1,0 +1,22 @@
+{   
+    "NAME" : "Sanyam Gupta",
+    "HEADINGS" : {
+        "ABOUT_ME" : "About Me",
+        "EXPERIENCE" : "Experience",
+        "PROJECTS" : "Projects",
+        "OTHER_PROJECTS" : "Other Projects",
+        "CONTACT_ME" : "Contact Me"
+    },
+    "INTRODUCTION" : {
+        "INTRO_LINE_1" : "Hi, my name is",
+        "INTRO_LINE_2" : "I am a Full-Stack Developer",
+        "INTRO_PARAGRAPH" : "I am a self-taught Vancouver based full-stack developer with fluency in multiple front-end and back-end technologies. Currently I am working with Emerge as a full-stack developer, where I am focusing on creating innovative digital solutions to enhance online educational experience for students all across the globe.",
+        "BUTTON_CAPTION" : "Resume"
+    },
+    "ABOUT_ME" : {
+        "PARAGRAPH_1" : "My name is Sanyam Gupta, I am a third year international student at Simon Fraser University. Currently I am pursuing Management Information Systems and Strategic analysis.",
+        "PARAGRAPH_2" : "If I have to describe myself in just one word, it will be autodidactic which means I am self-learner. Since I was a little boy, I had a very strong passion to learn and explore new frontiers. Whether it be teaching myself how to invest in financial markets or to code. When I started with SFU I had no prior knowledge about programming. It was by watching online videos on Youtube, Udemy that I taught myself how to program and eventually became a full-stack developer. Outside of my full-stack developer experience I share a strong passion for data analytics and machine learning. Currently in addition to being a full-stack developer at Emerge, I am closely working with some professors at SFU, assisting them in their research by helping them draw inferences through data modelling and machine learning algorithms.",
+        "PARAGRAPH_3" : "Here are some of the core technolgies that I have been working with",
+        "SKILLS" : ["Javascript,", "Python,", "Java,","C++,", "HTML/CSS,", "React,", "Pandas,", "Scikit-Learn,", "Django,", "Flask,", "SQL,", "Google Cloud Services,", "Heroku"]
+    }
+}

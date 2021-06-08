@@ -1,0 +1,49 @@
+{   
+    "JOB_1": {
+        "ORGANIZATION" : "Emerge", 
+        "POSITION" : "Full-Stack Developer", 
+        "PERIOD" : "May 2021 - Present", 
+        "DUTIES" : ["Develop an online educational platform using React, Firebase and Node.js that allows instructors and students to interact through live lectures",
+        "Collaborate with multidisciplinary teams of product designers, engineers, and business developers to perform, generate, and test ideas"]
+    },
+    "JOB_2": {
+        "ORGANIZATION" : "Simon Fraser University", 
+        "POSITION" : "Research Assistant", 
+        "PERIOD" : "Jan 2021 - Present", 
+        "DUTIES" : ["Developed a web crawler which scrapes 800,000+ human interactions from medical sites, parses them and prepares the data for Natural Language Processing",
+        "Working with the Twitter dataset, in order to develop a Sentiment Analysis algorithm which classifies human dialogues as positive or negative",
+        "Leveraged knowledge in Data Science and NLP libraries including Pandas, Scikit-learn, matplotlib, NLTK and Gensim"]
+    },
+    "JOB_3" : {
+        "ORGANIZATION" : "Thrift", 
+        "POSITION" : "Developer", 
+        "PERIOD" : "Sep 2020 - Dec 2020", 
+        "DUTIES" : ["Created a web scraper that scrapes product information from over 200+ shopify websites",
+        "Implemented a RESTful API that provides access to the scraped data",
+        "Worked with Google Cloud Services in order to access Google Sheet and Google Drive APIs to facilitate easy link uploads for the users",
+        "Leveraged knowledge in Python, Beautiful Soup, Flask and Heroku"]
+    },
+    "JOB_4" : {
+        "ORGANIZATION" : "Rogers Communications", 
+        "POSITION" : "Sales Representative", 
+        "PERIOD" : "Jun 2019 - Present", 
+        "DUTIES" : ["Currently positioned as one of the top 10 sales representatives in Vancouver area, as per sales and attachment volume",
+        "Closely work with clients in order to understand their technical needs and effectively match them with right data plans and services",
+        "Assist clients with troubleshooting and technical difficulties related to telecom services"]
+    },
+    "JOB_5" : {
+        "ORGANIZATION" : "SFU Surge", 
+        "POSITION" : "Developer", 
+        "PERIOD" : "Sep 2020 - Dec 2020", 
+        "DUTIES" : ["Part of a team of 4 that developed a web based productivity app that helps its users organize their day to day activities in a more efficient manner",
+        "Integrated features like task manager, activity tracker and reminders",
+        "Leveraged knowledge in React for front-end development and Google Firebase"]
+    },
+    "JOB_6" : {
+        "ORGANIZATION" : "Axis Consulting", 
+        "POSITION" : "Pro-bono Consultant", 
+        "PERIOD" : "Jan 2021 - Present", 
+        "DUTIES" : ["Closely working with our client BC Center for Ability to help them formulate roadmaps and strategies for long-term development in the new digital era",
+        "Conducting thorough research and due diligence to explore new technological frontiers for easy integration and scalability "]
+    }
+}

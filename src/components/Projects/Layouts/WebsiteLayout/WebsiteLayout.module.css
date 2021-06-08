@@ -1,0 +1,48 @@
+.WebsiteLayoutContainer{
+    width: 100%;
+    margin-bottom: 4em;
+}
+
+.WebsiteLayout{
+    position: relative;
+    margin-bottom: 2em;
+    padding-top: 42%;
+}
+
+.FrameOne{
+    width : 68%;
+    padding-top : 42%;
+    bottom : 0px;
+    position: absolute;
+    display : block;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100% 100%;
+    box-shadow : 2px 3px 5px #ccc;
+}
+
+.FrameTwo{
+    bottom : 0px;
+    width : 40%;
+    padding-top : 55%;
+    right : -30%;
+    position: absolute;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100% 100%;
+    box-shadow : 2px 3px 5px #ccc;
+
+
+}
+
+.FrameThree{
+    bottom : 0;
+    width : 65%;
+    padding-top : 120%;
+    right : -50%;
+    position: absolute;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100% 100%;
+    box-shadow : 2px 3px 5px #ccc;
+}

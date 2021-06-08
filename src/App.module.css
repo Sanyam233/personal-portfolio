@@ -1,0 +1,21 @@
+.socialLinkContainer{
+  display: none;
+}
+
+.mainContainer {
+  width : 90%;
+  margin : auto;
+}
+
+@media only screen and (min-width: 1040px){
+
+  .socialLinkContainer{
+      display: block;
+  }
+  
+  .mainContainer{
+      margin-left: 8%;
+  }
+  
+
+}

@@ -1,0 +1,52 @@
+.projectTile{
+    color : var(--text-color);
+    width : 100%;
+    max-width : 300px;
+    padding : 1.5em;
+    background-color : var(--secondary);
+    box-shadow: 2px 3px 5px #ccc;
+    margin: 0 auto;
+}
+
+.projectTileHeader{
+    display: flex;
+    justify-content : space-between;
+    font-size: clamp(var(--fs-l), 4vw, var(--fs-xl));
+}
+
+.linkIcon{
+    margin-left: 1em;
+    cursor : pointer;
+    color : inherit;
+}
+
+.linkIcon:hover{
+    color : var(--red);
+}
+
+.descriptionContainer{
+    display : flex;
+    flex-direction : column;
+    justify-content : space-between;
+    height : 80%;
+    text-align : left;
+}
+
+.technologyContainer{
+    display: flex;
+    width: 100%;
+    margin-top : 1rem;
+}
+
+.technologyContainer span{
+    margin-right: 1.2rem;
+    font-size : clamp(0.8125rem ,2vw, 1rem);
+}
+
+@media screen and (min-width : 768px) {
+
+    .projectTile {
+        max-width : 350px;
+    }
+}
+

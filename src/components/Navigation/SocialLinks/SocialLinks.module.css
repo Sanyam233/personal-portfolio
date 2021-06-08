@@ -1,0 +1,25 @@
+.socialLinks{
+    display: block;
+}
+
+.link{
+    color : var(--text-color);
+    font-size : clamp(1.15rem, 3vw, 1.50rem);
+    margin-left: 1em;
+}
+
+.link:hover{
+    color : var(--red);
+    cursor : pointer;
+}
+
+@media screen and (min-width : 1040px){
+
+    .socialLinks{
+        position : absolute;
+        right : 10%;
+        top: 8%;
+    }
+    
+
+}

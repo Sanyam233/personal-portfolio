@@ -1,0 +1,56 @@
+.aboutMe{
+    margin: 0 auto 8rem auto; 
+    text-align : left;
+}
+
+.picture{
+    background-image: url("../../assets/Picture.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width : 80%;
+    height: 300px;
+    margin: 0 auto;
+    max-width : 350px;
+    min-width: 280px;
+
+}
+
+.introductionContainer{
+    width : 100%;
+    display : flex;
+    flex-direction: column;
+    align-items : center;
+}
+
+.skill{
+    color : var(--red);
+    font-weight: bold;
+}
+
+@media screen and (min-width: 640px) {
+
+    .container {
+        display : flex;
+    }
+    
+    .picture {
+        height : 350px;
+        margin-left: 3em;
+    }
+}
+
+@media only screen and (min-width: 1040px){
+
+    .aboutMe{
+        width : 85%;
+    }
+
+    .introductionContainer{
+        width : 55%;
+        display : block;
+        margin-top: 0px;
+
+    }
+    
+}

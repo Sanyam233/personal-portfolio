@@ -1,0 +1,47 @@
+.navLink{
+    text-decoration: none;
+    color : var(--text-color);
+    cursor : pointer;
+    font-size : clamp(1.15rem, 3vw, 1.30rem);
+
+}
+
+.navigationLink {
+    margin-bottom: 4em;
+
+}
+
+.navLink:hover{
+    color : var(--red);
+}
+
+.active {
+    color : var(--red);
+    font-weight : bold;
+}
+
+
+@media screen and (min-width: 768px){
+    
+    .navigationLink{
+        margin-left : 1.5em;
+        margin-bottom: 0;
+        display : flex;
+        align-items : flex-end;
+    }
+    
+}
+
+
+
+@media screen and (min-width: 1040px){
+    
+    .navigationLink{
+        transform : rotate(-90deg);
+        text-align : center;
+        display : block;
+        margin-left: 0;
+    }
+
+    
+}

@@ -1,0 +1,42 @@
+.description {
+    margin-top : 1em;
+}
+
+.title {
+    letter-spacing : var(--spacing);
+    margin-bottom: 0.2em;
+}
+
+
+.organization {
+    background-color : var(--secondary);
+    display : inline-block;
+    padding : 0.6em 0.5em 0.3em 0.5em;
+    text-transform: uppercase;
+    border-radius : 3px;
+    color : var(--red);
+    letter-spacing : var(--spacing);
+}
+
+.jobDates {
+    letter-spacing : var(--spacing)
+}
+
+.jobDescription {
+    display : flex;
+}
+
+.bullets {
+    color : var(--red);
+    margin-right: 0.5em;
+}
+
+
+@media only screen and (min-width : 786px) {
+
+    .description{
+        width: 60%;
+        margin-top: 0;
+    }
+
+}
