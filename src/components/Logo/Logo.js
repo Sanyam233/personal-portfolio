@@ -1,9 +1,10 @@
 import styles from './Logo.module.css';
+import Logo from '../../assets/Logo/logo.svg'
 
 const Logo = (props) => {
     return (
         <div className = {styles.logo} onClick={props.onClick}>
-            <h1>S</h1>
+            <img src = {Logo} alt = "Logo"/>
         </div>
     );
 }

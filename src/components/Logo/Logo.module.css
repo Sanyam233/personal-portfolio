@@ -4,7 +4,6 @@
     border-radius : 50%;
     background-color: var(--red);
     color : var(--secondary);
-    transform : rotate(-50deg);
     text-align : center;
     cursor : pointer;
 }   
