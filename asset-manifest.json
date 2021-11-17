@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1d41f14d.chunk.css",
-    "main.js": "/static/js/main.07d54ad7.chunk.js",
-    "main.js.map": "/static/js/main.07d54ad7.chunk.js.map",
+    "main.js": "/static/js/main.feb0f632.chunk.js",
+    "main.js.map": "/static/js/main.feb0f632.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1c291e30.js",
     "runtime-main.js.map": "/static/js/runtime-main.1c291e30.js.map",
     "static/js/2.07c51767.chunk.js": "/static/js/2.07c51767.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.1d41f14d.chunk.css.map": "/static/css/main.1d41f14d.chunk.css.map",
     "static/js/2.07c51767.chunk.js.LICENSE.txt": "/static/js/2.07c51767.chunk.js.LICENSE.txt",
-    "static/media/CV.010464ae.pdf": "/static/media/CV.010464ae.pdf",
+    "static/media/CV.8ce14705.pdf": "/static/media/CV.8ce14705.pdf",
     "static/media/index.module.css": "/static/media/Calibre-Semibold.6972688a.woff",
     "static/media/Frame1.264be4eb.png": "/static/media/Frame1.264be4eb.png",
     "static/media/Frame1.35ca9878.png": "/static/media/Frame1.35ca9878.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.1c291e30.js",
     "static/js/2.07c51767.chunk.js",
     "static/css/main.1d41f14d.chunk.css",
-    "static/js/main.07d54ad7.chunk.js"
+    "static/js/main.feb0f632.chunk.js"
   ]
 }
