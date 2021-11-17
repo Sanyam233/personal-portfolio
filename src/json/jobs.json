@@ -9,7 +9,7 @@
     "JOB_2": {
         "ORGANIZATION" : "Simon Fraser University", 
         "POSITION" : "Research Assistant", 
-        "PERIOD" : "Jan 2021 - Present", 
+        "PERIOD" : "Jan 2021 - Sep 2021", 
         "DUTIES" : ["Developed a web crawler which scrapes 800,000+ human interactions from medical sites, parses them and prepares the data for Natural Language Processing",
         "Working with the Twitter dataset, in order to develop a Sentiment Analysis algorithm which classifies human dialogues as positive or negative",
         "Leveraged knowledge in Data Science and NLP libraries including Pandas, Scikit-learn, matplotlib, NLTK and Gensim"]
@@ -26,7 +26,7 @@
     "JOB_4" : {
         "ORGANIZATION" : "Rogers Communications", 
         "POSITION" : "Sales Representative", 
-        "PERIOD" : "Jun 2019 - Present", 
+        "PERIOD" : "Jun 2019 - Nov 2021", 
         "DUTIES" : ["Currently positioned as one of the top 10 sales representatives in Vancouver area, as per sales and attachment volume",
         "Closely work with clients in order to understand their technical needs and effectively match them with right data plans and services",
         "Assist clients with troubleshooting and technical difficulties related to telecom services"]
@@ -42,7 +42,7 @@
     "JOB_6" : {
         "ORGANIZATION" : "Axis Consulting", 
         "POSITION" : "Pro-bono Consultant", 
-        "PERIOD" : "Jan 2021 - Present", 
+        "PERIOD" : "Jan 2021 - Apr 2021", 
         "DUTIES" : ["Closely working with our client BC Center for Ability to help them formulate roadmaps and strategies for long-term development in the new digital era",
         "Conducting thorough research and due diligence to explore new technological frontiers for easy integration and scalability "]
     }
